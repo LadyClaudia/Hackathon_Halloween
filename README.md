@@ -1,4 +1,4 @@
-# Hackathon_Halloween 2018 @WildCodeSchool Orléans
+# Hackathon Halloween 2018 @WildCodeSchool Orléans
 
 ## Création d'un Bonbondex
 
